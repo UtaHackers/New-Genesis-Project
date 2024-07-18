@@ -1,4 +1,4 @@
-# New-Genesis-Project-
+# New-Genesis-Project
 "Chiliz Sports Hackathon - Build For Passion": This repository contains public files of UTA project.
 # UTA by New Genesis
 ## (The project will be updated constantly)
@@ -39,7 +39,16 @@ We're constantly innovating and improving the platform to provide the best possi
 
 ## Check out the Whitepaper
 https://new-genesis.gitbook.io/new-genesis-whitepaper
+### Smart Contract Companions:
+0x76D1c225159401f4Ef24C24D8087F7eb12132e2B
+### Smart Contract NGT
+0xd3FFC15d090337c1F6738353BBa10F4d4AE1BE43
+### Smart Contract UTA
+0xaEB85D31E18416A2C394F16b1491c98b72DBAF49
+### Smart Contract MarketPlace Nfts
+0x99cC6E55ad2bfe0910fC657FeF1f41528C78235D
 ## In depth
-### the first apk will be available today 00:00
-### the next update will be available tomorrow 00:00
+### Video
+https://youtu.be/eqmzVTNq-rw
+### the next step will be available today 00:00
  
