@@ -50,5 +50,10 @@ https://new-genesis.gitbook.io/new-genesis-whitepaper
 ## In depth
 ### Video
 https://youtu.be/eqmzVTNq-rw
-### the next step will be available today 00:00
+### video: listen to earn reward with your companions.
+URL: https://youtu.be/b_fbfg_UExw
+Transaction Hash:
+0xb0b72827e79991489954dbad9cddfe81e24b6500e03c17f166079dd09f00a63e
+
+### the next step will be available Tomorrow 00:00
  
