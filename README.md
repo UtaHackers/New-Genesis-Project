@@ -55,6 +55,6 @@ URL: https://youtu.be/b_fbfg_UExw
 Transaction Hash:
 0xb0b72827e79991489954dbad9cddfe81e24b6500e03c17f166079dd09f00a63e 
 ### PS: 
--There will be an update in 24h where the integration of the blockchain part will be finalized.
--UTA app is still in testing phase so expect some errors and bugs.
+  ### -There will be an update in 24h where the integration of the blockchain part will be finalized.
+  ### -UTA app is still in testing phase so expect some errors and bugs.
  
